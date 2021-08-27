@@ -1,18 +1,13 @@
-https://hdkprofile.netlify.app
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d632bee-e8d9-4b8b-b355-bab68cd738c1/deploy-status)](https://app.netlify.com/sites/hdkprofile/deploys)
 
 =======
 # Profile
->>>>>>> acf67ab02980888029e2a7e59367ac911c78ca8e
+
 
 * Vue.js Practice repo for educational purpose. 
 * Learned in front-end class at Korea Polytechnic University
 * This repo is forked from https://github.com/mayank091193/mayank-profile.
 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> acf67ab02980888029e2a7e59367ac911c78ca8e
 
 ## Resources used
 * [Quasar Framework](https://quasar.dev/)
