@@ -1,7 +1,5 @@
+https://hdkprofile.netlify.app
 
-
-<<<<<<< HEAD
-## Profile
 =======
 # Profile
 >>>>>>> acf67ab02980888029e2a7e59367ac911c78ca8e
